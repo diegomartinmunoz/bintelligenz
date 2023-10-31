@@ -1,0 +1,1 @@
+Para que AZCopy funcione correctamente el contenido de esta carpeta debe ser copiado en /usr/bin/azcopy
